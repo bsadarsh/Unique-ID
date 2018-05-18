@@ -11,7 +11,10 @@ namespace GetUnique
         static void Main(string[] args)
         {
             Console.WriteLine("print");
+            Console.WriteLine("push");
+
             Console.ReadLine();
+            
         }
     }
 }
